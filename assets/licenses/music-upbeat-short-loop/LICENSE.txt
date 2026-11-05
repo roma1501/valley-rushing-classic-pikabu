@@ -1,0 +1,7 @@
+Upbeat short Music Loop
+Author: BenjaTheMaker (OpenGameArt.org)
+Source page: https://opengameart.org/node/54530
+Original file: https://opengameart.org/sites/default/files/Upbeat%20Loop_2.ogg
+License: CC0 1.0 Universal  https://creativecommons.org/publicdomain/zero/1.0/
+Credit line (not required): Music "Upbeat short Music Loop" by BenjaTheMaker, CC0, via OpenGameArt.org
+Used in Rush Valley as assets/sounds/music_lobby.ogg (unmodified copy).

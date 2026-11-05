@@ -1,0 +1,7 @@
+Shine Blitz
+Author: zesona (credit requested: Chris Murphy)
+Source page: https://opengameart.org/content/shine-blitz
+Original file: https://opengameart.org/sites/default/files/shineblitz_0.ogg
+License: CC0 1.0 Universal  https://creativecommons.org/publicdomain/zero/1.0/
+Credit line: Music "Shine Blitz" by Chris Murphy (zesona), CC0, via OpenGameArt.org
+Used in Rush Valley as assets/sounds/music_round.ogg (unmodified copy).

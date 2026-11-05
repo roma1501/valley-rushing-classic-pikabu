@@ -1,0 +1,9 @@
+Heartbeat sounds
+Author: bart (OpenGameArt.org)
+Source page: https://opengameart.org/content/heartbeat-sounds
+Original download: https://opengameart.org/sites/default/files/heartbeat_fast_0.wav (32-bit float stereo WAV, 1.125 s, loops seamlessly by design)
+License: CC0 1.0 Universal  https://creativecommons.org/publicdomain/zero/1.0/
+Credit (not required): bart, via OpenGameArt.org
+
+Used in Rush Valley as assets/sounds/heartbeat.ogg: down-mixed to mono, peak-normalised to -1 dBFS and
+encoded as Ogg Vorbis (the original is very quiet and 397 KB). No other processing.

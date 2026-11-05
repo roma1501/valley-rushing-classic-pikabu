@@ -1,0 +1,6 @@
+Rush Valley air horn (assets/sounds/ability_airhorn.ogg)
+Synthesised procedurally for Rush Valley: additive synthesis of three detuned reed tones (G4 / Bb4 / D5)
+with a short breath-noise attack, soft clipping and a 4.5 kHz low-pass, rendered with Python/numpy and
+encoded as Ogg Vorbis. It contains no third-party recordings or samples.
+License: CC0 1.0 Universal  https://creativecommons.org/publicdomain/zero/1.0/  (dedicated to the public domain by the Rush Valley project)
+Reason: the engine Sound Pack and the Kenney packs have no air horn, and no verifiably CC0 air horn was found on OpenGameArt.

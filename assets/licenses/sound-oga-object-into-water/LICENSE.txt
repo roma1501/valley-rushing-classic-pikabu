@@ -1,0 +1,5 @@
+Object Dropping into Water
+Author: angeloyazar
+Source: https://opengameart.org/node/44399
+License: CC0 1.0 Universal https://creativecommons.org/publicdomain/zero/1.0/
+Used in Valley Rushing Classic as assets/sounds/water_plop.ogg (unmodified).

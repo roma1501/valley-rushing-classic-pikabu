@@ -1,0 +1,12 @@
+Swishes Sound Pack
+Author: artisticdude (OpenGameArt.org)
+Source page: https://opengameart.org/content/swishes-sound-pack
+Original download: https://opengameart.org/sites/default/files/swishes.zip (13 WAV files, 24-bit stereo)
+License: CC0 1.0 Universal  https://creativecommons.org/publicdomain/zero/1.0/
+Credit (not required): artisticdude, via OpenGameArt.org
+
+Used in Rush Valley (converted unchanged from WAV to Ogg Vorbis for size, no other processing):
+  assets/sounds/knife_swing.ogg     <- swishes/swish-11.wav
+  assets/sounds/dash.ogg            <- swishes/swish-3.wav
+  assets/sounds/ability_sprint.ogg  <- swishes/swish-9.wav
+  assets/sounds/ability_lunge.ogg   <- swishes/swish-10.wav

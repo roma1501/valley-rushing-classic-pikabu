@@ -1,0 +1,7 @@
+Happy menu song
+Author: Blocky Modeler (OpenGameArt.org)
+Source page: https://opengameart.org/content/happy-menu-song
+Original file: https://opengameart.org/sites/default/files/pixelloop.mp3
+License: CC0 1.0 Universal  https://creativecommons.org/publicdomain/zero/1.0/
+Credit line (not required): Music "Happy menu song" by Blocky Modeler, CC0, via OpenGameArt.org
+Used in Rush Valley as assets/sounds/music_menu.mp3 (unmodified copy).

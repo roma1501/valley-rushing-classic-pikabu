@@ -1,0 +1,5 @@
+Ocean splash
+Author: Thimras
+Source: https://opengameart.org/content/ocean-splash
+License: CC0 1.0 Universal https://creativecommons.org/publicdomain/zero/1.0/
+Used in Valley Rushing Classic as assets/sounds/water_splash.ogg (unmodified).
